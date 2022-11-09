@@ -1,3 +1,8 @@
 <template>
-  <div></div>
+  <VApp>
+    <!-- SIDEBAR -->
+    <VMain>
+      <!-- CARDS -->
+    </VMain>
+  </VApp>
 </template>
