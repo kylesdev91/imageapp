@@ -1,12 +1,13 @@
 <script setup>
  import SideBar from "./components/SideBar"
+ import ImageGallery from "./components/ImageGallery"
 </script>
 
 <template>
   <VApp>
-    <SideBar />
+    <SideBar/>
     <VMain>
-      <!-- CARDS -->
+      <ImageGallery />
     </VMain>
   </VApp>
 </template>
