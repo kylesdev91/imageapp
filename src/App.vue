@@ -1,6 +1,10 @@
+<script setup>
+ import SideBar from "./components/SideBar"
+</script>
+
 <template>
   <VApp>
-    <!-- SIDEBAR -->
+    <SideBar />
     <VMain>
       <!-- CARDS -->
     </VMain>
